@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/alikahwaji/projectDThree#readme",
   "dependencies": {
-    "d3": "^5.15.1"
+    "d3": "^5.15.1",
+    "lodash": "^4.17.15"
   }
 }
