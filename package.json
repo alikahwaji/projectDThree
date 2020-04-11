@@ -1,0 +1,22 @@
+{
+  "name": "projectdthree",
+  "version": "1.0.0",
+  "description": "This is a basic project for D3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alikahwaji/projectDThree.git"
+  },
+  "author": "Ali Kahwaji",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alikahwaji/projectDThree/issues"
+  },
+  "homepage": "https://github.com/alikahwaji/projectDThree#readme",
+  "dependencies": {
+    "d3": "^5.15.1"
+  }
+}
